@@ -14,6 +14,7 @@ Hi There, I am Renato. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <p align="center">
   <a href="https://github.com/Renato-G-Santos/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Renato-G-Santos.Renato-G-Santos"></a>
 </p>
+
 ---
 
 * 🎓 **Systems Analysis & Development Student** at FATEC.
