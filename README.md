@@ -39,7 +39,7 @@ Hi There, I am Renato. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 
 - **Language**
 
-	[![My Skills](https://skillicons.dev/icons?i=java,python,cs,php,js,html,css)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=java,python,cs,fastapi,php,js,html,css)](https://skillicons.dev)
   	
 
 - **IDEs and Frameworks**
