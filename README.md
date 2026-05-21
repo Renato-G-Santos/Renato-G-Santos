@@ -69,7 +69,7 @@ Hi There, I am Renato. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 
  <div align=center>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-g-santos&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Renato-G-Santos&theme=github_dark)
 
 </div>
 
